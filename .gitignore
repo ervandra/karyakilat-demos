@@ -1,0 +1,1 @@
+*.env\ncredentials/\nclient_secret.json\ntoken_dump.json\n.DS_Store\nnode_modules/\n.tmp/
