@@ -118,7 +118,7 @@ export default function Page() {
                 <ListItem text="Biaya Memiliki Bukti Potong" status="safe" />
               </ul>
               <div className="bg-green-50 text-green-800 text-xs font-bold px-3 py-2 rounded text-center">
-                Risiko Audit: RENDAH (< 5%)
+                Risiko Audit: RENDAH (&lt; 5%)
               </div>
             </div>
 
@@ -148,7 +148,7 @@ export default function Page() {
                 <ListItem text="Lawan Transaksi Fiktif" status="danger" />
               </ul>
               <div className="bg-red-50 text-red-800 text-xs font-bold px-3 py-2 rounded text-center">
-                Risiko Audit: TINGGI (> 75%)
+                Risiko Audit: TINGGI (&gt; 75%)
               </div>
             </div>
           </div>
